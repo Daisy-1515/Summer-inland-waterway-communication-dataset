@@ -32,7 +32,6 @@ A1：Collecting large-scale, fine-grained measurement-based data for inland wate
 Q2: The networking aspects and wireless technology details are not clearly described. What specific communication technologies are utilized?<br>
 A2: The system employs a heterogeneous networking architecture. In near-shore and inland waterway scenarios, 4G/5G cellular networks can support high data rate services, while the QUIC protocol ensures efficient, reliable, and low-latency data transmission over these wireless channels. AIS regularly broadcasts essential navigation information, and in some situations, satellite uses RTK positioning to provide high-precision positioning and time synchronization.
 
-<img width="3956" height="2220" alt="插图_01(1)" src="https://github.com/user-attachments/assets/f5972fc4-d15c-44fe-9321-027a255d154e" />
 
 [1] Y. Lin, X. Ma, X. Chu, Y. Jin, Z. Yang, Y. Wang, and H. Mei, “LoRA Dropout as a sparsity regularizer for overfitting control,” arXiv preprint arXiv:2404.09610, 2024.
 
