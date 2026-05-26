@@ -12,9 +12,15 @@ Dataset Construction
 
 <img width="9160" height="4161" alt="fig2_01" src="https://github.com/user-attachments/assets/64bed185-5389-4bb9-973f-4d07d20bb868" />
 
-
-
 MEAND expands FND by incorporating multimodal environmental information. In particular, inland waterways wind speed, temperature, and rainfall, are considered, as they directly influence wireless data transmission quality. Moreover, we integrate geographic information from the Yangtze waterway bureau, and marked fixed features, such as bridge, waterway geometry, and small islands in inland waterway.
+
+# Usage
+
+## Requirements
+- torch >= 1.8.0
+- torchvision >= 0.9.0
+- timm == 0.3.2
+
 
 Model Preparation
 --
