@@ -1,4 +1,4 @@
-Ship-to-Shore Communication Latency Prediction with Environment-aware Multimodal LLMs
+LLIPSE: Lightweight LLM-backed Prediction Model for Inland Waterway Ship-to-Shore End-to-End Communications
 =
 Dynamic environmental factors, including seasonal weather variations, signal obstructions caused by bridges, and waterway geometry, 
 significantly influence end-to-end (E2E) latency prediction in wireless ship-to-shore communications.
