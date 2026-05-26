@@ -12,15 +12,19 @@ Dataset Construction
 
 <img width="9160" height="4161" alt="fig2_01" src="https://github.com/user-attachments/assets/64bed185-5389-4bb9-973f-4d07d20bb868" />
 
-
-
 MEAND expands FND by incorporating multimodal environmental information. In particular, inland waterways wind speed, temperature, and rainfall, are considered, as they directly influence wireless data transmission quality. Moreover, we integrate geographic information from the Yangtze waterway bureau, and marked fixed features, such as bridge, waterway geometry, and small islands in inland waterway.
 
-Model Preparation
---
-* Qwen/Qwen2-7B-Instruct
-* Deepseek-R1-Distill-Qwen-1.5B
-* huggyllama/llama-7b
+# Usage
+
+## Requirements
+- torch >= 1.8.0
+
+
+## Model Preparation
+
+- [Qwen/Qwen2-7B-Instruct](https://huggingface.co/Qwen/Qwen2-7B-Instruct)
+- [Deepseek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
+- [huggyllama/llama-7b](https://huggingface.co/huggyllama/llama-7b)
 
 LoRA Configurations
 --
