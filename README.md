@@ -18,15 +18,13 @@ MEAND expands FND by incorporating multimodal environmental information. In part
 
 ## Requirements
 - torch >= 1.8.0
-- torchvision >= 0.9.0
-- timm == 0.3.2
 
 
-Model Preparation
---
-* Qwen/Qwen2-7B-Instruct
-* Deepseek-R1-Distill-Qwen-1.5B
-* huggyllama/llama-7b
+## Model Preparation
+
+- [Qwen/Qwen2-7B-Instruct](https://huggingface.co/Qwen/Qwen2-7B-Instruct)
+- [Deepseek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
+- [huggyllama/llama-7b](https://huggingface.co/huggyllama/llama-7b)
 
 LoRA Configurations
 --
